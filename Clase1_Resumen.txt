@@ -1,0 +1,59 @@
+SCRUM
+	- Es una metodología agíl (forma de trabajar que abraza el cambio sin sacrificar la estabilidad del proyecto)
+	- Framework (Marco de trabajo que te da unas pautas)
+	- Desarrolla y entrega funcionalidades
+	- Backlog (actividades a realizar)
+	- Sprint (Funcionalidad)
+
+	- Product Owner (PO): Medio entre los desarrolladores del proyecto y el cliente interno
+							Escucha al cliente y toma las desiciones con base en la factiblidad de las ideas propuestas y prioriza las tareas
+
+
+
+	- SCRUM Master: Se encarga que el equipo de apegue a SCRUM
+					Daily: 15 minutos (dices que has hecho y que harás el día de hoy)
+
+
+
+	Project Manager: (en SCRUM no hay debido a que el equipo es autosuficiente - Backlog [requerimientos del proyecto])
+
+
+	Software Bussiness Analyst: Puente entre los clientes y los desarrolladores, traduce las necesidades a los desarrolladores
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Backend: Servidor (APIs) Lógica de negocio
+			Seguridad y rendimiento
+
+Front: Cliente
+	Angular - Framework
+	React - Biblioteca  (componentes)
+	Compatibilidad
+
+Diseñador - Maquetador - Frontend
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Cloud - Peticiones a gran escala
+		Red de alta velocidad
+
+		Cloud engineer - Configurar servicios
+		Diseño
+		mantenimineto
+		Monitoreo
+		Desarrollo
+
+
+		Cloud Arquitecto - Diseño de las soluciones
+		Cloud developer
+		SysOps Administrator - Configurar los servicios y monitorearlos
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Big Data
+
+	Data Enginner - Prepara la ifnormación
+	Data Scientist - analiza la información - Realiza predicciones
+	Data Analyst - 
+
+
+
