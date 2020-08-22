@@ -1,0 +1,31 @@
+En la primer clase se nos dio una extensa información sobre los diferentes roles que hay sobre administradores los cuales son:
+ +Scrum Master: Realiza ceremonias con el framework de SCRUM, en el cual es para ver que se a realizado, que se a costado por hacer y que se puede hacer para mejorar
+ +Product owner: El planea los sprints o entregables, y ve que se realicen a tiempo.
+ +Project manager: Debe conocer bien el giro de la empresa, dice que se debe entregar en que tiempo, da soluciones y cambios.
+ +Bussines analyst: A el le pides lo que necesitas para pdoer trabajar, el se encarga de ver que se quiere y le dice al programador como debe hacerlo.
+
+ También se hablo sobre el backend el cual es la parte "fea" de las páginas web, donde se debe de enlazar el frontend con toda la parte funcional de la página, además de poder realizar los ABCC.
+
+ Frontend son los que hacen que la página web se vea bonita sin importarles como se haga la conexión por detrás.
+
+ Fullstack son las personas que tienen de todo y son bien buenos para poder programar y hacer que se vea bien la página, se les paga mejor pero encontrar a uno de estos cuates es casi imposible.
+
+ Cloud Enginer, son los que brindan los servicios de la nube, te ayudan a realizar el salvado de los datos en linea y dan soporte a estos datos. Las empresas grandes te regalan un poco de su nube para cuando te excedas puedan cobrarte debido a que es muy dificil realizar el cambio de una nube a otra o muy caro.
+
+ Mobile developers son los que se encargan de desarrollos en móviles ya sea android o ios.
+
+ Tester son los que se encargan de ver que funcione bien la aplciación y de ver si hay bugs o errores no contemplados por kos programadores.
+
+ También vimos los tipos de roles que hay de los Data, los cuales son:
+
+  +Data Scientist los cuales desarrollan la parte de las bases de datos con matempaticas.
+  +Data Analyst los que ven y analizan dichos datos.
+  +Data Engineer los que realizan y utilizan más las matemáticas que los Scientist.
+
+ Devops son las personas que hacen de todo un poco y son los que deben tener y saber qu hace el programa ya que ellos se encargan de darles los mantenimientos.
+
+ También sobre la parte de Head/lead, arquitectos y CTO/VP/DT que sinceramente me quede con dudas y no entendi las diferencias.
+
+ Y lo más importante los sueldos que dependiendo del conocimiento y de la experiencia que tengamos con una herramienta es cuanto podremos cobrar por cada trabajao que realizemos al mismo tiempo a que aprendamos a vendernos, tambien de que hay algunas pautas para poder subir rápido en lo spuestos de trabajo como buena actitud, ser proactivo, conocer a ala empresa y que hace, entre otros puntos.
+
+ 
