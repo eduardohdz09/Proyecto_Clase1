@@ -1,6 +1,6 @@
 # Resumen de la lección 1
 
-## Introduction
+## Introducción 🚀
 
 > Resumen de la primer clase impartida por los profesores Kevin y Ángelica donde se tocan los siguientes temas.
 >
@@ -13,7 +13,11 @@
 >    7. DEVOPs
 
 
-## Installation
+## Instalación 🔧
 
 > No aplica. Solo leer el archivo .txt
 
+## Autores ✒️
+
+> - Eduardo Hernández
+> - Juan Carlos Rodriguez
